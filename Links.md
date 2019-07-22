@@ -18,7 +18,7 @@
 
 [Linux headers Problem](https://raspberrypi.stackexchange.com/questions/5230/getting-no-rule-to-make-target-modules-stop-error-when-running-makefile-w)
 
-[Boot with a Different Kernel](https://www.raspberrypi.org/forums/viewtopic.php?t=60616)
+[Boot with a Different Kernel](https://www.raspberrypi.org/forums/viewtopic.php?t=60616) - tried to boot from kernel7.img vs kernel.img, but didn't make a difference? 
 
 [Rpi Webcam](https://www.raspberrypi.org/documentation/usage/webcams/)
 
@@ -29,7 +29,7 @@
 [Raspberry Pi as a Squid Proxy Cache](https://the-server.ninja/2016/03/26/using-a-raspberry-pi-as-a-squid-proxy-cache/)
 [Squid-Cache.org](http://www.squid-cache.org/)
 
-[Wifi Dongle](https://www.amazon.com/Connecting-Wireless-Adapter-150Mbps-Raspberry/dp/B073J3HXZH/ref=as_li_ss_tl?s=electronics&ie=UTF8&qid=1520852693&sr=1-1&keywords=RT5370&linkCode=sl1&tag=thedailyack-20&linkId=4080a3e76d87578cd33f30036672aa8c)
+[Wifi Dongle for Rpi](https://www.amazon.com/Connecting-Wireless-Adapter-150Mbps-Raspberry/dp/B073J3HXZH/ref=as_li_ss_tl?s=electronics&ie=UTF8&qid=1520852693&sr=1-1&keywords=RT5370&linkCode=sl1&tag=thedailyack-20&linkId=4080a3e76d87578cd33f30036672aa8c) - 802.11 n g b USB 2.0 Support Windows Linux Mac.
 
-[Wifi Dongle Resource](https://www.alfa.com.tw/)
+[Networking Device](https://www.alfa.com.tw/) - Alfa Network Inc
 
